@@ -1,11 +1,18 @@
 # Tree
 All Questions Related to Tree Data structure. Their detailed Explanations and Python implementation as well
 
-# All Bst questions file name would be  Prefixed with Bst_
+# All binary search tree questions file name would be  Prefixed with bst_
 For example.
 
 Search in a Binary search  Tree.
 So, file name would be bst_Search_in_Binary_Tree.py
+
+# All binary tree questions file name would be  Prefixed with bst_
+For example.
+
+Flatten Binary tree to Linked List.
+So, file name would be bin_flatten_Binary_Tree.py
+
 
 # Basic Implementation of Binary Search Tree Given Below, You can use this in every questions Related to BST
 
